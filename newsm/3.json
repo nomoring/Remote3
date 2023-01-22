@@ -5,7 +5,7 @@
   "remot_ads": true,
   "remot_fullads": true,
   "remot_myads": true,
-  "remot_googleads": true,
+  "remot_googleads": false,
   "admob_app_id": "ca-app-pub-3940256099942544~3347511666",
   "download_status": true,
   "search_status": true,
