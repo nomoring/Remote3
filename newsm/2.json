@@ -3,7 +3,7 @@
   "redirect_mode": false,
   "new_package": "com.funnmedia.waterminder",
   "remot_ads": true,
-  "remot_fullads": true,
+  "remot_fullads": false,
   "remot_myads": true,
   "admob_app_id": "ca-app-pub-7055235163685503~2278913471",
   "admob_banner": "ca-app-pub-7055235163685503/8066696276",
