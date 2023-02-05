@@ -8,7 +8,7 @@
   "remot_googleads": false,
   "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
   "download_status": true,
-  "search_status": true,
+  "search_status": false,
   "folder_status": true,
   "subscribe_status": true,
   "downloadUrl": "https://play.google.com/store/apps/details?id=",
