@@ -9,7 +9,7 @@
   "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
   "remot_abanner":true,
   "remot_gbanner":false,
-  "remot_ginter":false,
+  "remot_ginter":true,
   "download_status": true,
   "search_status": true,
   "folder_status": true,
