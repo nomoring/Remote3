@@ -20,7 +20,7 @@
   "imageUrl2": "https://k.kakaocdn.net/dn/bnh3gk/btrSlk67Sib/cfdqrNbbFnQjZ6euETI1k1/img.png",
   "downloadUrl60": "https://play.google.com/store/apps/details?id=",
   "imageUrl60": "https://k.kakaocdn.net/dn/brLsbZ/btrSw6OayeN/UkS3ig6qzBRqPeDoKJ3zF0/img.png",
-  "notify_tf": true,
+  "notify_tf": false,
   "notify_title": "공지사항:",
   "notify_content": "광고제거가 활성화 되였음을 알립니다.\n그동안 구글 시스템 오류로 거부 되였던점 양해 부탁드립니다.",
   "notify_button1": "닫기",
