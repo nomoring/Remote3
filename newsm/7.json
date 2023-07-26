@@ -20,7 +20,7 @@
   "imageUrl2": "https://k.kakaocdn.net/dn/bnh3gk/btrSlk67Sib/cfdqrNbbFnQjZ6euETI1k1/img.png",
   "downloadUrl60": "https://play.google.com/store/apps/details?id=",
   "imageUrl60": "https://k.kakaocdn.net/dn/brLsbZ/btrSw6OayeN/UkS3ig6qzBRqPeDoKJ3zF0/img.png",
-  "remot_home": true,
+  "remot_home": false,
   "home_content": "광고:개인 광고입니다.\n아래 버튼을 누르세요",
   "notify_tf": false,
   "notify_title": "공지사항:",
