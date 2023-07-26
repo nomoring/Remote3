@@ -4,7 +4,7 @@
   "new_package": "com.funnmedia.waterminder",
   "remot_ads": false,
   "remot_fullads": false,
-  "remot_myads": true,
+  "remot_myads": false,
   "remot_googleads": false,
   "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
   "remot_abanner":true,
