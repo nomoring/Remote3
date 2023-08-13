@@ -22,7 +22,7 @@
   "imageUrl60": "https://k.kakaocdn.net/dn/brLsbZ/btrSw6OayeN/UkS3ig6qzBRqPeDoKJ3zF0/img.png",
   "notify_tf": true,
   "notify_title": "공지사항:",
-  "notify_content": "영상재생 안되는 문제 해결중입니다, 조금만 기다려 주세요. 불편을 드려 죄송합니다.",
+  "notify_content": "영상 재생이 느린 문제를 해결중입니다, 불편을 드려 죄송합니다.",
   "notify_button1": "닫기",
   "notify_button2": "",
   "notify_url": "https://m.naver.com"
