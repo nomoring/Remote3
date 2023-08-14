@@ -22,7 +22,7 @@
   "imageUrl60": "https://k.kakaocdn.net/dn/brLsbZ/btrSw6OayeN/UkS3ig6qzBRqPeDoKJ3zF0/img.png",
   "remot_home": false,
   "home_content": "광고:개인 광고입니다.\n아래 버튼을 누르세요",
-  "notify_tf": true,
+  "notify_tf": false,
   "notify_title": "공지사항:",
   "notify_content": "영상 재생이 느린 문제를 해결중입니다, 앱 업데이트 알림이 있을시 꼭 업데이트 해주세요, 불편을 드려 죄송합니다.",
   "notify_button1": "닫기",
