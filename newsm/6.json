@@ -20,7 +20,7 @@
   "imageUrl2": "https://k.kakaocdn.net/dn/bnh3gk/btrSlk67Sib/cfdqrNbbFnQjZ6euETI1k1/img.png",
   "downloadUrl60": "https://play.google.com/store/apps/details?id=",
   "imageUrl60": "https://k.kakaocdn.net/dn/brLsbZ/btrSw6OayeN/UkS3ig6qzBRqPeDoKJ3zF0/img.png",
-  "notify_tf": true,
+  "notify_tf": false,
   "notify_title": "공지사항:",
   "notify_content": "영상 재생이 느린 문제를 해결중입니다, 불편을 드려 죄송합니다.",
   "notify_button1": "닫기",
