@@ -22,7 +22,7 @@
   "imageUrl60": "https://k.kakaocdn.net/dn/brLsbZ/btrSw6OayeN/UkS3ig6qzBRqPeDoKJ3zF0/img.png",
   "remot_home": false,
   "home_content": "광고:개인 광고입니다.\n아래 버튼을 누르세요",
-  "notify_tf": true,
+  "notify_tf": false,
   "notify_title": "공지사항:",
   "notify_content": "저희는 현재 새로운 앱을 출시중입니다, 더 많은 기능과 훨씬 더 나은 앱으로 여러분들한테 다가갈 예정입니다. 구글 심사가 오래 걸리고 있습니다, 길게는 7일까지 소요될것 같습니다. 출시되면 알려드리겠습니다. \n\n 현재 이 앱은 늦어도 내일전까지 업데이트 하겠습니다, 불편을 드려 죄송합니다.",
   "notify_button1": "닫기",
