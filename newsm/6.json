@@ -20,9 +20,9 @@
   "imageUrl2": "https://k.kakaocdn.net/dn/bnh3gk/btrSlk67Sib/cfdqrNbbFnQjZ6euETI1k1/img.png",
   "downloadUrl60": "https://play.google.com/store/apps/details?id=",
   "imageUrl60": "https://k.kakaocdn.net/dn/brLsbZ/btrSw6OayeN/UkS3ig6qzBRqPeDoKJ3zF0/img.png",
-  "notify_tf": false,
+  "notify_tf": true,
   "notify_title": "공지사항:",
-  "notify_content": "영상 재생이 느린 문제를 해결중입니다, 불편을 드려 죄송합니다.",
+  "notify_content": "저희는 현재 새로운 앱을 출시중입니다, 더 많은 기능과 훨씬 더 나은 앱으로 여러분들한테 다가갈 예정입니다. 구글 심사가 오래 걸리고 있습니다, 길게는 7일까지 소요될것 같습니다. 출시되면 알려드리겠습니다. \n\n 현재 이 앱은 늦어도 내일전까지 업데이트 하겠습니다, 불편을 드려 죄송합니다.",
   "notify_button1": "닫기",
   "notify_button2": "",
   "notify_url": "https://m.naver.com"
