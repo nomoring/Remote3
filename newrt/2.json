@@ -7,7 +7,7 @@
   "remot_myads": true,
   "remot_gbanner":false,
   "remot_ginter":true,
-  "remove_ads": true,
+  "remove_ads": false,
   "download_status": true,
   "search_status": true,
   "folder_status": true,
