@@ -22,7 +22,7 @@
   "imageUrl60": "https://k.kakaocdn.net/dn/brLsbZ/btrSw6OayeN/UkS3ig6qzBRqPeDoKJ3zF0/img.png",
   "remot_home": false,
   "home_content": "광고:개인 광고입니다.\n아래 버튼을 누르세요",
-  "notify_tf": false,
+  "notify_tf": true,
   "notify_title": "공지사항:",
   "notify_content": "레드티 새로운 버전의 앱이 출시 되였습니다. 현재 앱도 계속 운영합니다.\n\n아래 설치하기 버튼을 눌러 새로운 버전의 앱을 설치하러 가기!",
   "notify_button1": "닫기",
