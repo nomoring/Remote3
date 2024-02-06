@@ -22,7 +22,7 @@
   "imageUrl60": "https://k.kakaocdn.net/dn/brLsbZ/btrSw6OayeN/UkS3ig6qzBRqPeDoKJ3zF0/img.png",
   "remot_home": false,
   "home_content": "광고:개인 광고입니다.\n아래 버튼을 누르세요",
-  "notify_tf": false,
+  "notify_tf": true,
   "notify_title": "공지사항:",
   "notify_content": "안드로이드14 유저분들 중\n영상 플레이가 안되는 분들은\n아래 설치하기 버튼을 눌러\n새로운 앱을 설치해 보세요.",
   "notify_button1": "닫기",
