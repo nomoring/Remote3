@@ -22,10 +22,10 @@
   "imageUrl60": "https://k.kakaocdn.net/dn/brLsbZ/btrSw6OayeN/UkS3ig6qzBRqPeDoKJ3zF0/img.png",
   "home_if": false,
   "home_content": "광고:개인 광고입니다.\n아래 버튼을 누르세요",
-  "notify_tf": false,
+  "notify_tf": true,
   "notify_title": "공지사항:",
-  "notify_content": "공지 드립니다.\n현재 오류가 발생하여 수정중 입니다.\n빠른 시간내로 앱을 업데이트 할테니 조금만 기다려 주세요.\n\n감사합니다.",
+  "notify_content": "다운로드 오류 수정중입니다.\n빠른 시간내로 앱을 업데이트 할테니 조금만 기다려 주세요.\n감사합니다.",
   "notify_button1": "닫기",
-  "notify_button2": "다운",
+  "notify_button2": "",
   "notify_url": "https://m.naver.com"
 }
