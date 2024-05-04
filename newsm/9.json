@@ -20,7 +20,7 @@
   "imageUrl2": "https://k.kakaocdn.net/dn/bnh3gk/btrSlk67Sib/cfdqrNbbFnQjZ6euETI1k1/img.png",
   "downloadUrl60": "https://play.google.com/store/apps/details?id=",
   "imageUrl60": "https://k.kakaocdn.net/dn/brLsbZ/btrSw6OayeN/UkS3ig6qzBRqPeDoKJ3zF0/img.png",
-  "remot_home": true,
+  "remot_home": false,
   "home_content": "공지: 현재 앱이 잘 안되시는 분들은 Play스토어에서 새로운 버전의 앱을 설치해보세요.\n아래 버튼을 눌러 설치하러 가기!",
   "notify_tf": false,
   "notify_title": "공지사항:",
