@@ -22,10 +22,10 @@
   "imageUrl60": "https://k.kakaocdn.net/dn/brLsbZ/btrSw6OayeN/UkS3ig6qzBRqPeDoKJ3zF0/img.png",
   "remot_home": false,
   "home_content": "광고:개인 광고입니다.\n아래 버튼을 누르세요",
-  "notify_tf": false,
+  "notify_tf": true,
   "notify_title": "공지사항:",
-  "notify_content": "공지 드립니다.\n현재 오류가 발생하여 수정중 입니다.\n빠른 시간내로 앱을 업데이트 할테니 조금만 기다려 주세요.\n\n감사합니다.",
+  "notify_content": "곧 대대적인 업데이트가 있을 예정입니다.\n변경사항:\n1.전체UI 변경\n2.유튜브 계정 연동\n3.훨씬 빨라진 영상 플레이\n4.댓글 보기 추가 등등\n\n만약 현재 버전을 유지하고 싶다면 업데이트 알림이 있어도 하지 마시길 추천드립니다.",
   "notify_button1": "닫기",
-  "notify_button2": "다운",
+  "notify_button2": "",
   "notify_url": "https://m.naver.com"
 }
