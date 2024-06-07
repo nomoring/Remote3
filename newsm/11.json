@@ -8,7 +8,7 @@
   "back_status": true,
   "notify_tf": true,
   "notify_title": "공지사항:",
-  "notify_content": "다운 받은 파일이 대체로 Movies -> RedTea 폴더에 저장됩니다.\n갤러리 앱에 로드 되기까지 시간이 다소 걸립니다.",
+  "notify_content": "다운 받은 파일이 대체로 Movies -> 레드티2 폴더에 저장됩니다.\n갤러리 앱에 로드 되기까지 시간이 다소 걸립니다.",
   "notify_button1": "닫기",
   "notify_button2": "",
   "notify_url": "https://m.naver.com"
