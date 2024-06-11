@@ -6,7 +6,7 @@
   "remote_ads": true,
   "download_status": true,
   "back_status": true,
-  "notify_tf": true,
+  "notify_tf": false,
   "notify_title": "공지사항:",
   "notify_content": "다운 받은 파일이 대체로 Movies -> 레드티2 폴더에 저장됩니다.\n갤러리 앱에 로드 되기까지 시간이 다소 걸립니다.\n곧 업데이트 할때 이 문제를 해결하겠습니다.불편을 드려 죄송합니다.",
   "notify_button1": "닫기",
