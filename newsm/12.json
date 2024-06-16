@@ -6,7 +6,7 @@
   "remote_ads": true,
   "download_status": true,
   "back_status": true,
-  "notify_tf": true,
+  "notify_tf": false,
   "notify_title": "공지사항:",
   "notify_content": "재생목록이 안 보인다면 댓글이라도 쓸수 있는 유튜브 계정으로 로그인 해보세요.",
   "notify_button1": "닫기",
