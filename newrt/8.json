@@ -2,6 +2,7 @@
   "version_code": 1,
   "redirect_mode": false,
   "new_package": "com.funnmedia.waterminder",
+  "check_main": true,
   "remot_ads": false,
   "remot_fullads": false,
   "remot_myads": false,
