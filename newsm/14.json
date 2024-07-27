@@ -8,7 +8,7 @@
   "back_status": true,
   "notify_tf": true,
   "notify_title": "공지사항:",
-  "notify_content": "오류를 열심히 수정중 입니다.\n빠르면 오늘저녘쯤 늦어도 내일까지 업데이트 될테니 조금만 기다려 주세요.\n불편을 드려 죄송합니다.",
+  "notify_content": "Play스토어에서 앱을 업데이트 하세요.",
   "notify_button1": "닫기",
   "notify_button2": "",
   "notify_url": "https://m.naver.com"
