@@ -6,9 +6,9 @@
   "remote_ads": true,
   "download_status": true,
   "back_status": true,
-  "notify_tf": false,
+  "notify_tf": true,
   "notify_title": "공지사항:",
-  "notify_content": "공지 드립니다.\n현재 오류가 발생하여 수정중 입니다.\n빠른 시간내로 앱을 업데이트 할테니 조금만 기다려 주세요.\n\n감사합니다.",
+  "notify_content": "안드로이드 12 이하 버전부터 검색오류가 발생하는것을 인지했으나 정확한 문제 파악과 해결을 위해 시간이 좀더 필요할것 같습니다.불편을 드려 죄송합니다.",
   "notify_button1": "닫기",
   "notify_button2": "",
   "notify_url": "https://m.naver.com"
