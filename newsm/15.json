@@ -8,8 +8,8 @@
   "back_status": true,
   "notify_tf": true,
   "notify_title": "공지사항:",
-  "notify_content": "안드로이드 12 이하 버전부터 검색오류가 발생하는것을 인지했으나 정확한 문제 파악과 해결을 위해 시간이 좀더 필요할것 같습니다.불편을 드려 죄송합니다.",
+  "notify_content": "검색이 안되는 분들은 아래 '설치하기' 버튼을 눌러 New레드티 새로운 버전을 설치하여 이용해 보세요.",
   "notify_button1": "닫기",
-  "notify_button2": "",
-  "notify_url": "https://m.naver.com"
+  "notify_button2": "설치하기",
+  "notify_url": "https://play.google.com/store/apps/details?id=com.vmfree.bestplayer"
 }
