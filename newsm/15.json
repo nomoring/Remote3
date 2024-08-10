@@ -8,8 +8,8 @@
   "back_status": true,
   "notify_tf": true,
   "notify_title": "공지사항:",
-  "notify_content": "검색이 안되는 분들은 아래 '설치하기' 버튼을 눌러 New레드티 새로운 버전을 설치하여 이용해 보세요.",
+  "notify_content": "검색이 안되는 분들만 '업데이트' 버튼을 눌러 앱을 업데이트 하세요!",
   "notify_button1": "닫기",
-  "notify_button2": "설치하기",
-  "notify_url": "https://play.google.com/store/apps/details?id=com.vmfree.bestplayer"
+  "notify_button2": "업데이트",
+  "notify_url": "https://play.google.com/store/apps/details?id=io.adfree.town"
 }
