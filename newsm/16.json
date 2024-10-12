@@ -6,9 +6,9 @@
   "remote_ads": true,
   "download_status": true,
   "back_status": true,
-  "notify_tf": true,
+  "notify_tf": false,
   "notify_title": "공지사항:",
-  "notify_content": "선착순 30명에게만 레드티 구버전을 비공개로 제공하고 있으니 이용하고 싶은 분은 아래 이메일로 보내주세요.메일 보낼때 꼭 Play스토어에 로그인한 구글메일주소로 보내주세요.\n\nredtea114@hotmail.com",
+  "notify_content": "테스트",
   "notify_button1": "닫기",
   "notify_button2": "",
   "notify_url": "https://m.naver.com"
