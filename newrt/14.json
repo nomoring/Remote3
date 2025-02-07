@@ -12,6 +12,6 @@
   "back_status": true,
   "downloadUrl": "https://play.google.com/store/apps/details?id=com.vmfree.bestplayer",
   "imageUrl": "https://k.kakaocdn.net/dn/I6llB/btrvGYDOIcQ/h4cC46QKRPoac28v46oNpk/img.png",
-  "home_if": true,
+  "home_if": false,
   "home_content": "공지: 오류 수정 완료.앱을 업데이트 해주세요.인터넷 상태에 따라 다를수 있습니다."
 }
