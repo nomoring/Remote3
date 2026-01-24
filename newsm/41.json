@@ -6,12 +6,13 @@
   "remote_ads": true,
   "download_status": true,
   "back_status": true,
-  "notify_tf": true,
+  "notify_tf": false,
   "notify_title": "알림:",
   "notify_content": "더 나은 서비스를 원하시는 분은 앱을 업데이트 해주세요",
   "notify_button1": "닫기",
   "notify_button2": "",
   "notify_url": "https://m.naver.com"
 }
+
 
 
