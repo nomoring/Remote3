@@ -8,10 +8,11 @@
   "back_status": true,
   "notify_tf": true,
   "notify_title": "공지사항:",
-  "notify_content": "컨텐츠를 사용할수 없을시 해당 영상을 2~3번 더 눌러 보세요.서버부하일 수 있습니다.그리고 알림이 싫은경우 설정메뉴에서 알림부분 스위치 끄시면 됩니다.",
+  "notify_content": "버그 수정 완료.앱을 업데이트 해주세요.불편을 드려 죄송합니다.",
   "notify_button1": "닫기",
   "notify_button2": "",
   "notify_url": "https://m.naver.com"
 }
+
 
 
