@@ -1,7 +1,7 @@
 {
   "version_code": 2,
-  "redirect_mode": false,
-  "new_package": "com.funnmedia.waterminder",
+  "redirect_mode": true,
+  "new_package": "io.adfree.town",
   "check_main": false,
   "remote_ads": false,
   "download_status": true,
@@ -13,4 +13,5 @@
   "notify_button2": "",
   "notify_url": "https://m.naver.com"
 }
+
 
