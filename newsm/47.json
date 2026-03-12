@@ -2,10 +2,13 @@
   "version_code": 2,
   "redirect_mode": false,
   "new_package": "com.funnmedia.waterminder",
-  "check_main": true,
-  "remote_ads": false,
-  "download_status": false,
-  "back_status": false,
+  "check_main": false,
+  "remote_ads": true,
+  "download_status": true,
+  "back_status": true,
+  "img_if": true,
+  "WebUrl": "https://google.com",
+  "imageUrl": "https://pimg.mk.co.kr/news/cms/202510/15/news-p.v1.20251015.301ad5e8b53541da8c0e957a44e03369_R.jpeg",
   "notify_tf": false,
   "notify_title": "공지사항:",
   "notify_content": "공지 드립니다.\n현재 오류가 발생하여 수정중 입니다.\n빠른 시간내로 앱을 업데이트 할테니 조금만 기다려 주세요.\n\n감사합니다.",
@@ -13,3 +16,4 @@
   "notify_button2": "",
   "notify_url": "https://m.naver.com"
 }
+
