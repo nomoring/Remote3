@@ -6,7 +6,7 @@
   "remote_ads": true,
   "download_status": true,
   "back_status": true,
-  "notify_tf": true,
+  "notify_tf": false,
   "notify_title": "알림:",
   "notify_content": "연속 재생시 끊김 현상이 발생한다면 앱을 최선버전으로 업데이트 하세요.",
   "notify_button1": "닫기",
