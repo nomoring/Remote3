@@ -6,7 +6,7 @@
   "remote_ads": true,
   "download_status": true,
   "back_status": true,
-  "img_if": true,
+  "img_if": false,
   "WebUrl": "https://tv.gaideu.com",
   "imageUrl": "https://blog.kakaocdn.net/dna/ccBBjm/dJMcafTuwJV/AAAAAAAAAAAAAAAAAAAAANJPJ3ljGoWGr71mdOFcPl6iZSF4ZOoqfoxgZOUu5uhX/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1774969199&signature=tTOO45YJDRj795OZXNVP0KuL8AU%3D",
   "notify_tf": false,
