@@ -1,6 +1,6 @@
 {
   "version_code": 1,
-  "redirect_mode": false,
+  "redirect_mode": true,
   "new_package": "io.adfree.town",
   "check_main": true,
   "remot_ads": true,
