@@ -9,7 +9,7 @@
   "img_if": false,
   "WebUrl": "https://google.com",
   "imageUrl": "https://pimg.mk.co.kr/news/cms/202510/15/news-p.v1.20251015.301ad5e8b53541da8c0e957a44e03369_R.jpeg",
-  "notify_tf": true,
+  "notify_tf": false,
   "notify_title": "공지사항:",
   "notify_content": "영상 재생에 오류가 있는 분들은 리뷰를 구체적으로 써주세요,특정 기기에서만 발생하는 오류라 구체적일수록 고치는데 수월해집니다.",
   "notify_button1": "닫기",
