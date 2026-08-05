@@ -9,9 +9,9 @@
   "img_if": false,
   "WebUrl": "https://google.com",
   "imageUrl": "https://pimg.mk.co.kr/news/cms/202510/15/news-p.v1.20251015.301ad5e8b53541da8c0e957a44e03369_R.jpeg",
-  "notify_tf": false,
+  "notify_tf": true,
   "notify_title": "알림:",
-  "notify_content": "재생이 멈추거나 끊기는 경우 설정 > 연결 > 기타 연결 설정 > 프라이빗 DNS에서 프라이빗 DNS를 사용 안함으로 바꾸고, 휴대폰을 재시작한 뒤 다시 재생 해보세요.",
+  "notify_content": "재생 버그 및 기타 오류들도 수정되여 곧 업데이트 됩니다.",
   "notify_button1": "닫기",
   "notify_button2": "",
   "notify_url": "https://m.naver.com"
