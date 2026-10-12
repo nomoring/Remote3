@@ -9,7 +9,7 @@
   "img_if": false,
   "WebUrl": "https://google.com",
   "imageUrl": "https://pimg.mk.co.kr/news/cms/202510/15/news-p.v1.20251015.301ad5e8b53541da8c0e957a44e03369_R.jpeg",
-  "notify_tf": true,
+  "notify_tf": false,
   "notify_title": "알림:",
   "notify_content": "기존 앱들과 다른 수면 타이머 앱을 출시 했습니다.\n필요하신 분들은 아래 설치하기 버튼 누르면 Play 스토어로 이동하여 설치할수 있습니다.",
   "notify_button1": "닫기",
